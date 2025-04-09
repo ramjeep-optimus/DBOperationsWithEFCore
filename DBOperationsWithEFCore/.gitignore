@@ -8,6 +8,7 @@
 *.userosscache
 *.sln.docstates
 .vs/
+.appsettings.json/
 
 # User-specific files
 *.userprefs
